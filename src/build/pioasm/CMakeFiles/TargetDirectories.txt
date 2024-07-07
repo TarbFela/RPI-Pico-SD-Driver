@@ -1,0 +1,3 @@
+/Users/thetragedyofdarthwise/PicoDev/explorer/MUX/src/build/pioasm/CMakeFiles/pioasm.dir
+/Users/thetragedyofdarthwise/PicoDev/explorer/MUX/src/build/pioasm/CMakeFiles/edit_cache.dir
+/Users/thetragedyofdarthwise/PicoDev/explorer/MUX/src/build/pioasm/CMakeFiles/rebuild_cache.dir
